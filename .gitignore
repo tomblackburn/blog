@@ -1,0 +1,7 @@
+public/
+resources/_gen/
+post-examples/
+
+hugo.exe
+hugo.linux
+hugo.darwin
