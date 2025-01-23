@@ -1,6 +1,6 @@
 
 title = "Tom Blackburn Blog"
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://tomblackburnblog.netlify.app'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
