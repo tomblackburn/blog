@@ -9,4 +9,4 @@
   HUGO_VERSION = "0.123.8"
   GO_VERSION = "1.22.1"
   NODE_VERSION = "22.13.1"
-  HUGO_THEME = "repo"
+  HUGO_THEME = "hugo-blog-awesome"
