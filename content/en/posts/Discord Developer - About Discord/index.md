@@ -13,7 +13,7 @@ description: Want to develop a Discord app? Find information about what Discord 
 
 # Discord’s Lingo **💬**
 
-![Servers](../../../../resources/_gen/images/discord/servers.png)
+![Servers](img/servers.png)
 
 ## Servers **🛠️**
 
@@ -27,7 +27,7 @@ In October 2017, Discord started to allow game developers and publishers to veri
 
  ****
 
-![Channels](../../../../resources/_gen/images/discord/channels.png)
+![Channels](img/channels.png)
 
 ## Channels **📝**
 
@@ -45,7 +45,7 @@ Servers are made up of chat rooms and voice channels. Channels are usually dedic
 
 - **Media Channels** - 🎞️ (introduced in 2023), which restricted content to videos and images only.
 
-![Profiles](../../../../resources/_gen/images/discord/profiles.png)
+![Profiles](img/profiles.png)
 
 ## User Profiles **👤**
 
@@ -63,7 +63,7 @@ A user’s display name is how they will primarily appear in a Discord server. T
 
 Friend nicknames can be set by other users on how they want to refer to you as. 
 
-![Nitro](../../../../resources/_gen/images/discord/nitro.png)
+![Nitro](img/nitro.png)
 
 ## [Nitro](https://discord.com/nitro) and Server Boosts **💨**
 
