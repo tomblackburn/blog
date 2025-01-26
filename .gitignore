@@ -1,5 +1,5 @@
 public/
-resources/_gen/
+resources/_gen/assets
 post-examples/
 
 hugo.exe
