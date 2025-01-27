@@ -1,5 +1,5 @@
 ---
-title: Project Zero - An Introduction
+title: Project Booksy - An Introduction
 date: 2025-01-23
 author: Tom Blackburn
 description: Diary of a project being built as part of the Boot.dev course

@@ -1,5 +1,5 @@
 ---
-title: Project Zero - The
+title: Project Booksy - The Idea
 date: 2025-01-26
 author: Tom Blackburn
 description: Diary of a project being built as part of the Boot.dev course
