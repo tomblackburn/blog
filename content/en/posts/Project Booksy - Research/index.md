@@ -14,8 +14,8 @@ I've spent the majority of this morning diving deep into Discord! 🕵️‍♂�
 
 If you're interested in checking out some of my research, here are a few useful links:
 
-- [About Discord](https://tomblackburnblog.netlify.app/posts/discord-developer---about-discord/)]
-- [Technology at Discord](https://tomblackburnblog.netlify.app/posts/discord-developer---technology/)]
+- [About Discord](https://tomblackburnblog.netlify.app/posts/discord-developer---about-discord/)
+- [Technology at Discord](https://tomblackburnblog.netlify.app/posts/discord-developer---technology/)
 
 # Popular Discord Apps **🚀**
 
